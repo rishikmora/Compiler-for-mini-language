@@ -11,7 +11,7 @@ $ g++ -std=c++17 -O2 -pthread -o minilang minilang.cpp
 $ ./minilang examples.ml
 Hello, World!
 ...
-10! = 3628800
+10! = 3628800 
 fib(0) = 0
 fib(1) = 1
 ...
